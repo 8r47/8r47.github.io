@@ -8,6 +8,33 @@ body {
     background-color: black;
 }
 
+.social-media-icons-in a{
+    color: white;
+    padding-left: 0em;
+}
+
+.social-media-icons-gh a{
+    color: white;
+    padding-left: 0em;
+}
+
+.social-media-icons-in{
+    padding-left: 0em;
+}
+
+.social-media-icons-gh{
+    padding-left: 4em;
+}
+
+.social-media-icons-in a:hover{
+    color: rgb(187, 187, 187);
+}
+
+.social-media-icons-gh a:hover{
+    color: rgb(182, 182, 182);
+}
+
+
 a { 
     transition: all 0.3s ease; 
     text-decoration: none;
