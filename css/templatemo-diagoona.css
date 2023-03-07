@@ -4,8 +4,8 @@ body {
     font-weight: 300;
     overflow-x: hidden;
     color: #ffffff;
-    background-image: image-set('matrix.gif');
-    background-color: #000000;
+    background-image: url("matrix.gif");
+    background-color: black;
 }
 
 a { 
