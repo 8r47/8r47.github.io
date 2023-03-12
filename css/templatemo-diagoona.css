@@ -3,8 +3,8 @@ body {
     font-size: 17px;
     font-weight: 300;
     overflow-x: hidden;
+    background-image: url("matrix.gif");
     color: #ffffff
-    
 }
 
 .social-media-icons-in a{
